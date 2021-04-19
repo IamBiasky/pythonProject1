@@ -1,3 +1,7 @@
-#
+def greet(first_name, last_name):
+    print(f"{first_name}, {last_name}")
+    print("Welcome aboard")
 
-rating = input('Enter an integer rating between 1 and 10')
+
+greet("Isaac John", "Enubiak")
+greet("Biasky Eureka", "Starboysky")
