@@ -19,5 +19,3 @@ if number3 > maximum:
 
 print("The minimum value is", minimum)
 print("The maximum value is", maximum)
-
-
