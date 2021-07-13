@@ -4,7 +4,7 @@ opt_2 = str('no')
 name_str = str(input("Welcome to PyMedic! \nPlease enter your Full Name:\n"))
 
 print(f'Hi! {name_str}, thank you for reaching out to us!')
-user_prob_str = input("Please, what is your problem?:\n")
+user_prob_str = input("Please, what is your health problem?:\n")
 
 user_response = str(input("Have you had" ' ' + user_prob_str + ' ' 'before? (Yes/No):\n'))
 
