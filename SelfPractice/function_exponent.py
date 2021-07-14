@@ -1,3 +1,6 @@
+# Write a function called exponent(base, exp)
+# that returns an int value of base raises to the power of exp
+
 def exponent(base, exp):
     exp_int = base ** exp
     return exp_int
