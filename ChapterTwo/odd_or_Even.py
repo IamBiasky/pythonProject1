@@ -1,7 +1,7 @@
 user_int = 0
 
 while user_int != 1:
-    user_int = int(input('Enter Your Number Here:'))
+    user_int = int(input('Enter Your Number Here: '))
 
     if user_int % 2 == 0:
         print("Number is Even")
